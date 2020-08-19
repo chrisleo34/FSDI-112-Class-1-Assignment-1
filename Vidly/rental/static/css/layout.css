@@ -1,0 +1,14 @@
+body {
+  font-family: "Mali", cursive;
+
+  font-family: "Rock Salt", cursive;
+}
+
+nav {
+  background-color: rgb(219, 159, 80);
+  color: black;
+}
+
+nav :hover {
+  color: whitesmoke;
+}
